@@ -3,7 +3,7 @@
 Welcome to my arudino repo! 
 I started learning about arduino and creating projects using the microcontroller in the beginning of summer 2024. The goal by the end of the summer is to create a remote controlled robot. 
 
-## [4 Bit Binary LED counter]()
+## [4 Bit Binary LED counter](https://github.com/vhunany/arduino-projects/blob/31ad307a5788ef7deb9d413bbdfdf99d88a265b4/BareMinimum_4_bit_binary_counter.ino)
 
 #### Understanding LEDs
 
