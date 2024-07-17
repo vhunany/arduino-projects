@@ -9,7 +9,7 @@ I started learning about arduino and creating projects using the microcontroller
 ![image](https://github.com/user-attachments/assets/2b628e33-3ee0-459d-88a3-bb9e158ae401)
 
 #### Circuit 
-
+![circuit](https://github.com/user-attachments/assets/4c893b33-46fb-4de0-a3d5-1d6376787bd8)
 
 #### Video 
 
